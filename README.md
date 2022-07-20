@@ -6,7 +6,6 @@ Developer
 
 * 🌍  I'm based in France
 * ✉️  You can contact me at [gokhankabar@hotmail.fr](mailto:gokhankabar@hotmail.fr)
-* 🧠  I'm learning React
 
 <a href="https://www.github.com/GokhanKabar" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/GokhanKabar?logo=github&style=for-the-badge&color=facc15&labelColor=000000" /></a>
