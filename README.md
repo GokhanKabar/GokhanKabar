@@ -1,7 +1,4 @@
 # <p align="center">Hi, I'm Gokhan Kabar</p>
-<p align="center">
-  <img style="width:8rem; height:auto" src="https://cdn.dribbble.com/users/1787323/screenshots/10091971/media/d43c019bfeff34be8816481e843ea8c1.png"/>
-</p>
 
 <p align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=100&color=00BCF7FF&center=true&width=435&lines=Computer+Science+Student;Full+Stack+Web+Developer" alt="Typing SVG" /></a></p>
 
